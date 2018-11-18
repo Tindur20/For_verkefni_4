@@ -1,9 +1,9 @@
 # for_verkefni_4
 
 ### Tutorialar / heimildir
-Hér er playlisti sem ég er að nota í þessu verkefni [Playlist](https://www.youtube.com/watch?v=on9nwbZngyw&index=1&list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ)
-Hér er video af movement á enemey sem ég notaði (virkar ekki)[linkur](https://www.youtube.com/watch?v=aRxuKoJH9Y0)
-hér er assetið sem ég notaði [linkur](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
+Hér er playlisti sem ég er að nota í þessu verkefni [Playlist](https://www.youtube.com/watch?v=on9nwbZngyw&index=1&list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ)                                                                             
+Hér er video af movement á enemey sem ég notaði (virkar ekki)[linkur](https://www.youtube.com/watch?v=aRxuKoJH9Y0)                         
+hér er assetið sem ég notaði [linkur](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)                               
 
 ## video af leiknum
 [video](http://www.youtube.com/watch?v=BotErqxpbrI)
