@@ -3,7 +3,8 @@
 ### Tutorialar / heimildir
 Hér er playlisti sem ég er að nota í þessu verkefni [Playlist](https://www.youtube.com/watch?v=on9nwbZngyw&index=1&list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ)                                                                             
 Hér er video af movement á enemey sem ég notaði (virkar ekki)[linkur](https://www.youtube.com/watch?v=aRxuKoJH9Y0)                         
-hér er assetið sem ég notaði [linkur](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)                               
+hér er assetið sem ég notaði [linkur](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349) 
+Health system sem ég notaði [linkur](https://www.youtube.com/watch?v=3uyolYVsiWc)
 
 ## video af leiknum
 [video](http://www.youtube.com/watch?v=BotErqxpbrI)
