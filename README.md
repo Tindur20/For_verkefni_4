@@ -23,4 +23,4 @@ movment system se ég notaði [linkur](https://www.youtube.com/watch?v=aRxuKoJH9
 ég uploadaði ekkert í assets folderinn því ég nennti ekki að vera endalaust að reyna að uploada öllu í það.
 
 ### leikurinn í build formi
-það er nýtt repositary sem er með leikinn í build formi þanning að þú þarft ekki að opna í unity en ég ætlaði að láta hann í setup form þanning að þú þyrftir bara að downloada einum file en ég lenti í frekar mörgum vandarmálum að gera það og gafst upp að láta hann í þanning form svo þú getur farið á github pages hjá mér og opnað repositoryið þar.                                                                  [linkur](Tindur20.github.io)
+það er nýtt repositary sem er með leikinn í build formi þanning að þú þarft ekki að opna í unity en ég ætlaði að láta hann í setup form þanning að þú þyrftir bara að downloada einum file en ég lenti í frekar mörgum vandarmálum að gera það og gafst upp að láta hann í þanning form svo þú getur farið á github pages hjá mér og opnað repositoryið þar.                                                                  [linkur](https://tindur20.github.io)
