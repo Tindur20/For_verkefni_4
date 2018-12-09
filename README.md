@@ -8,7 +8,7 @@ Health system sem ég notaði [linkur](https://www.youtube.com/watch?v=3uyolYVsi
 movment system se ég notaði [linkur](https://www.youtube.com/watch?v=aRxuKoJH9Y0&)
 
 ## video af leiknum
-nýtt video er á github pages getur fundið linkinn á innu eða hér fyrir neðan  í # leikurinn í build formi
+nýtt video er á github pages getur fundið linkinn á innu eða hér fyrir neðan  í leikurinn í build formi
 
 ### lýsing leiksinns
 Þú hreyfir þig um map og átt að komast framm hjá enemeies og ekki deygja 
